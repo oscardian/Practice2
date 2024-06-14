@@ -1,0 +1,10 @@
+create database postgres
+
+create table hashsum(
+id uuid primary key not null,
+hashsum varchar(10485760),
+filename varchar(10485760),
+type int4 not null,
+isremoved boolean not null
+);
+
