@@ -1,0 +1,15 @@
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\bin\Debug\net8.0\Tools.dll
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\bin\Debug\net8.0\Tools.pdb
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLib.E736BF3C.Up2Date
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\drkul\OneDrive\Рабочий стол\TransPract\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

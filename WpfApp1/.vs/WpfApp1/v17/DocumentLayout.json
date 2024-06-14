@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6786D211-2719-476D-8FDE-22E0DF2D617D}|WpfApp1\\WpfApp1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786D211-2719-476D-8FDE-22E0DF2D617D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786D211-2719-476D-8FDE-22E0DF2D617D}|WpfApp1\\WpfApp1.csproj|c:\\users\\drkul\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\transpract\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6786D211-2719-476D-8FDE-22E0DF2D617D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\service\\files\\repository\\models\\filedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\service\\files\\repository\\models\\filedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786D211-2719-476D-8FDE-22E0DF2D617D}|WpfApp1\\WpfApp1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786D211-2719-476D-8FDE-22E0DF2D617D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\service\\files\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\service\\files\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\service\\files\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\service\\files\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0C22D4-CA20-4DE4-8DE2-16E8C74E0E83}|Tools\\Tools.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\tools\\calculatehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0C22D4-CA20-4DE4-8DE2-16E8C74E0E83}|Tools\\Tools.csproj|solutionrelative:tools\\calculatehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\domain\\services\\ifileinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\domain\\services\\ifileinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\domain\\files\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\domain\\files\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\domain\\files\\fileblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\domain\\files\\fileblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\domain\\files\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\domain\\files\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0C22D4-CA20-4DE4-8DE2-16E8C74E0E83}|Tools\\Tools.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\tools\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0C22D4-CA20-4DE4-8DE2-16E8C74E0E83}|Tools\\Tools.csproj|solutionrelative:tools\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\DataBase.csproj|C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\classlibrary1\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91ABF4ED-AFF8-4145-A76C-D98684F40D1B}|ClassLibrary1\\DataBase.csproj|solutionrelative:classlibrary1\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:12:08.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Service\\Files\\FileService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Service\\Files\\FileService.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Service\\Files\\FileService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Service\\Files\\FileService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vyEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:55:41.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Service\\Files\\Repository\\FileRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Service\\Files\\Repository\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Service\\Files\\Repository\\FileRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Service\\Files\\Repository\\FileRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA2wB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:55:15.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileDB.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Service\\Files\\Repository\\Models\\FileDB.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Service\\Files\\Repository\\Models\\FileDB.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Service\\Files\\Repository\\Models\\FileDB.cs",
+              "RelativeToolTip": "ClassLibrary1\\Service\\Files\\Repository\\Models\\FileDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:55:02.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "iFileInterface.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Services\\iFileInterface.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Domain\\Services\\iFileInterface.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Services\\iFileInterface.cs",
+              "RelativeToolTip": "ClassLibrary1\\Domain\\Services\\iFileInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:53:05.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:29:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileType.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Files\\FileType.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Domain\\Files\\FileType.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Files\\FileType.cs",
+              "RelativeToolTip": "ClassLibrary1\\Domain\\Files\\FileType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:56:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\DataBase.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataBase.csproj",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\DataBase.csproj",
+              "RelativeToolTip": "ClassLibrary1\\DataBase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T05:30:49.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileBlank.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Files\\FileBlank.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Domain\\Files\\FileBlank.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Files\\FileBlank.cs",
+              "RelativeToolTip": "ClassLibrary1\\Domain\\Files\\FileBlank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:30:15.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:07:06.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Files\\File.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Domain\\Files\\File.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\ClassLibrary1\\Domain\\Files\\File.cs",
+              "RelativeToolTip": "ClassLibrary1\\Domain\\Files\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:13:50.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculateHash.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\Tools\\CalculateHash.cs",
+              "RelativeDocumentMoniker": "Tools\\CalculateHash.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\Tools\\CalculateHash.cs",
+              "RelativeToolTip": "Tools\\CalculateHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:31:14.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\Tools\\Result.cs",
+              "RelativeDocumentMoniker": "Tools\\Result.cs",
+              "ToolTip": "C:\\Users\\drkul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TransPract\\WpfApp1\\Tools\\Result.cs",
+              "RelativeToolTip": "Tools\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:04:29.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
